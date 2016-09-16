@@ -15,3 +15,6 @@ gems:
 # Build settings
 markdown: kramdown
 encoding: utf-8
+
+# Google services
+google_analytics: UA-18272332-4
