@@ -9,12 +9,15 @@ Publication Impact:
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=TZ2NznwAAAAJ)
 **undergraduate
 
-__Lin Y__, Prentice SE, Tran T**, Bingham NL, Chadwick OA, and King JY. 2016 Modeling deep soil properties on
- California grassland hillslopes using LiDAR digital elevation models. 
-Geoderma Regional 7 (1), 67-75. [Elsevier](http://dx.doi.org/10.1016/j.geodrs.2016.01.005), [UCeScholarship]()
+__Lin Y__, Ralph J, Karlen SD, and King JY. Short-term facilitation of microbial litter decomposition by ultraviolet radiation. In review.
+
+Adair CE, Parton WJ, King JY, Brandt LA, and __Lin Y__. Accounting for photodegradation dramatically improves prediction of carbon and nitrogen losses in arid systems. In review. 
+
+Slessarev EW, __Lin Y__, Bingham NL, Johnson JE, Dai Y, Schimel JP, Chadwick OA. (2016) Water balance defines a threshold in soil pH at the global scale. Nature 540 (7634), 567-569. [Nature](https://www.nature.com/nature/journal/v540/n7634/full/nature20139.html), [UCeScholarship](http://escholarship.org/uc/item/30f631wk)
+
+__Lin Y__, Prentice SE, Tran T**, Bingham NL, Chadwick OA, and King JY. (2016) Modeling deep soil properties on California grassland hillslopes using LiDAR digital elevation models. Geoderma Regional 7 (1), 67-75. [Elsevier](http://dx.doi.org/10.1016/j.geodrs.2016.01.005), [UCeScholarship]()
 
 Xu X, Shi Z, Chen XC, __Lin Y__, Niu SL, Jiang LF, Luo RS, and Luo YQ. (2016) Unchanged carbon balance driven by equivalent responses of production and respiration to climate change in a mixed grass prairie. Global Change Biology 22: 1857–1866. [Wiley](http://dx.doi.org/10.1111/gcb.13192) , [ResearchGate](https://www.researchgate.net/profile/Xia_Xu7/publication/287109837_Unchanged_carbon_balance_driven_by_equivalent_responses_of_production_and_respiration_to_climate_change_in_a_mixed_grass_prairie/links/5683077c08aebccc4e0e1f66.pdf?origin=publication_list)
-
 
 __Lin Y__, King JY, Karlen SD, and Ralph J. (2015) Using 2D NMR spectroscopy to assess effects of UV radiation on cell wall chemistry during litter decomposition. Biogeochemistry 125: 427-436. [Springer](http://dx.doi.org/10.1007/s10533-015-0132-1), [UCeScholarship](http://escholarship.org/uc/item/7bn271zr)
 
