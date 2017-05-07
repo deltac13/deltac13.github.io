@@ -16,7 +16,7 @@ gems:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 encoding: utf-8
 
 # Google services
