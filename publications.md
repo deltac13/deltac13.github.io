@@ -4,7 +4,6 @@ redirect_from: /Publications/
 permalink: /publications/
 ---
 ## Publications
-
 Publication Impact:
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=TZ2NznwAAAAJ)
 **undergraduate
