@@ -13,7 +13,7 @@ Publication Impact:
 
 __Lin Y__, Ralph J, Karlen SD, and King JY. Short-term facilitation of microbial litter decomposition by ultraviolet radiation. In revision.
 
-__Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. Phosphorus fractionation responds to dynamic redox conditions in a humid rainforest soil. Submitted.
+__Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. Phosphorus fractionation responds to dynamic redox conditions in a humid rainforest soil. In review.
 
 Shi Z, __Lin Y__, Wilcox KR, Jiang L, Jung CG, Xu X, Yuan M, Guo X, Zhou J, and Luo Y. Species composition regulates climate sensitivity of prairie primary productivity. In review. 
 
