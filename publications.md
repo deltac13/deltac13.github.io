@@ -19,6 +19,7 @@ sensitivity of grassland productivity. Submitted.
 
 __Lin Y__, Ralph J, Karlen SD, and King JY. Short-term facilitation of microbial litter decomposition by ultraviolet radiation. Science of the Total Environment. In press. [Elsevier](), [Accepted version] (/files/Lin_2017_STOTEN_accepted.pdf)
 
+
 Adair CE, Parton WJ, King JY, Brandt LA, and __Lin Y__. Accounting for photodegradation dramatically improves prediction of carbon losses in dryland systems. _Ecosphere_ 8, e01892. [Wiley](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1892/full)
 
 Slessarev EW, __Lin Y__, Bingham NL, Johnson JE, Dai Y, Schimel JP, Chadwick OA. (2016) Water balance defines a threshold in soil pH at the global scale. _Nature_ 540 (7634), 567-569. [Nature](https://www.nature.com/nature/journal/v540/n7634/full/nature20139.html), [UC - eScholarship](http://escholarship.org/uc/item/30f631wk)
