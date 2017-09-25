@@ -17,7 +17,7 @@ __Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. P
 Shi Z, __Lin Y__, Wilcox KR, Jiang L, Jung CG, Xu X, Yuan M, Guo X, Zhou J, and Luo Y. Successional change in species composition alters climate
 sensitivity of grassland productivity. Submitted. 
 
-__Lin Y__, Ralph J, Karlen SD, and King JY. Short-term facilitation of microbial litter decomposition by ultraviolet radiation. Science of the Total Environment. In press. [Elsevier](), [Accepted version] (/files/Lin_2017_STOTEN_accepted.pdf)
+__Lin Y__, Ralph J, Karlen SD, and King JY. Short-term facilitation of microbial litter decomposition by ultraviolet radiation. Science of the Total Environment. In press. [Elsevier](), [Accepted version](/files/Lin_2017_STOTEN_accepted.pdf)
 
 
 Adair CE, Parton WJ, King JY, Brandt LA, and __Lin Y__. Accounting for photodegradation dramatically improves prediction of carbon losses in dryland systems. _Ecosphere_ 8, e01892. [Wiley](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1892/full)
