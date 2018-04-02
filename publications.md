@@ -13,7 +13,7 @@ Publication Impact:
 
 __Lin Y__, Slessarev EW, Yehl ST, D’Antonio CM, and King JY. Long-term nutrient fertilization increased soil carbon sequestration in California grasslands. In review.
 
-__Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. Phosphorus fractionation responds to dynamic redox conditions in a humid rainforest soil. In revision.
+__Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. Phosphorus fractionation responds to dynamic redox conditions in a humid rain forest soil. In revision.
 
 Shi Z, __Lin Y__, Wilcox KR, Jiang L, Jung CG, Xu X, Yuan M, Guo X, Zhou J, and Luo Y. Successional change in species composition alters climate
 sensitivity of grassland productivity. In revision. 
