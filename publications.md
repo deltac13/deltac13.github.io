@@ -11,14 +11,16 @@ Publication Impact:
 
 **undergraduate mentee
 
-__Lin Y__, Slessarev EW, Yehl ST, D’Antonio CM, and King JY. Long-term nutrient fertilization increased soil carbon sequestration in California grasslands. In review.
+Bhattacharyya A, Campbell AN, Tfaily MM, __Lin Y__, Silver WS, Nico PS, Pett-Ridge J. Redox fluctuations control the coupled cycling of iron and carbon in tropical forest soils. In review. [bioRxiv](https://doi.org/10.1101/312108)
 
-__Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. Phosphorus fractionation responds to dynamic redox conditions in a humid rain forest soil. In review after revision.
+__Lin Y__, Slessarev EW, Yehl ST**, D’Antonio CM, and King JY. Long-term nutrient fertilization increased soil carbon sequestration in California grasslands. In revision after review.
+
+__Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. Phosphorus fractionation responds to dynamic redox conditions in a humid tropical forest soil. In revision after review.
 
 Shi Z, __Lin Y__, Wilcox KR, Jiang L, Jung CG, Xu X, Yuan M, Guo X, Zhou J, and Luo Y. Successional change in species composition alters climate
-sensitivity of grassland productivity. In review after revision. 
+sensitivity of grassland productivity. _Global Change Biology_. Accepted. 
 
-Miller DL, Roberts DA, Clarke KC, __Lin Y__, Menzer O, Peters EB, McFadden JP. Gross primary productivity of a large metropolitan region using high spatial resolution satellite imagery. _Urban Ecosystems_. Accepted pending minor revision. 
+Miller DL, Roberts DA, Clarke KC, __Lin Y__, Menzer O, Peters EB, McFadden JP. Gross primary productivity of a large metropolitan region using high spatial resolution satellite imagery. _Urban Ecosystems_. In press.  
 
 __Lin Y__, Ralph J, Karlen SD, and King JY. (2018) Short-term facilitation of microbial litter decomposition by ultraviolet radiation. _Science of the Total Environment_ 615. 838–848. [Elsevier](https://doi.org/10.1016/j.scitotenv.2017.09.239), [Accepted version](/files/Lin_2017_STOTEN_accepted.pdf)
 
