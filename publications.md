@@ -9,9 +9,9 @@ Publication Impact:
 [Publons](https://publons.com/a/339957/)
 
 
-| equal contribution, ** undergraduate mentee
+ǂ equal contribution, ** undergraduate mentee
 
-__Lin Y__|, Gross A|, Silver WS. Rainfall control on phosphorus fractions in wet tropical forest soils. In review.
+__Lin Y__ǂ, Gross Aǂ, Silver WS. Rainfall control on phosphorus fractions in wet tropical forest soils. In review.
 
 
 Bhattacharyya A, Campbell AN, Tfaily MM, __Lin Y__, Silver WS, Nico PS, Pett-Ridge J. Redox fluctuations control the coupled cycling of iron and carbon in tropical forest soils. In review. [bioRxiv](https://doi.org/10.1101/312108)
