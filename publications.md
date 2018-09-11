@@ -5,7 +5,7 @@ permalink: /publications/
 title: Publications
 ---
 Publication Impact:
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=TZ2NznwAAAAJ)  Review History:
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=TZ2NznwAAAAJ&view_op=list_works&sortby=pubdate)  Review History:
 [Publons](https://publons.com/a/339957/)
 
 
@@ -16,7 +16,7 @@ __Lin Y__^, Gross A^, Silver WS. Rainfall control on phosphorus fractions in wet
 
 Bhattacharyya A, Campbell AN, Tfaily MM, __Lin Y__, Silver WS, Nico PS, Pett-Ridge J. Redox fluctuations control the coupled cycling of iron and carbon in tropical forest soils. In review. [bioRxiv](https://doi.org/10.1101/312108)
 
-__Lin Y__, Slessarev EW, Yehl ST**, D’Antonio CM, and King JY. Long-term nutrient fertilization increased soil carbon storage in California grasslands. _Ecosystems_. In press. 
+__Lin Y__, Slessarev EW, Yehl ST**, D’Antonio CM, and King JY. Long-term nutrient fertilization increased soil carbon storage in California grasslands. _Ecosystems_. In press, [Springer](https://doi.org/10.1007/s10021-018-0300-y). 
 
 __Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. Phosphorus fractionation responds to dynamic redox conditions in a humid tropical forest soil. _Journal of Geophysical Research - Biogeosciences_. In press, [Wiley](https://doi.org/10.1029/2018JG004420).
 
