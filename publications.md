@@ -13,17 +13,18 @@ Publication Impact:
 
 __Lin Y__^, Gross A^, Silver WS. Rainfall control on phosphorus fractions in wet tropical forest soils. In review.
 
+Gross A^, __Lin Y__^, Pett-Ridge J, Weber PK, and Silver WS. Redox conditions control microbial phosphorus uptake in humid tropical forests. In review.  
 
 Bhattacharyya A, Campbell AN, Tfaily MM, __Lin Y__, Silver WS, Nico PS, Pett-Ridge J. Redox fluctuations control the coupled cycling of iron and carbon in tropical forest soils. In review. [bioRxiv](https://doi.org/10.1101/312108)
 
 __Lin Y__, Slessarev EW, Yehl ST**, D’Antonio CM, and King JY. Long-term nutrient fertilization increased soil carbon storage in California grasslands. _Ecosystems_. In press, [Springer](https://doi.org/10.1007/s10021-018-0300-y). 
 
-__Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. Phosphorus fractionation responds to dynamic redox conditions in a humid tropical forest soil. _Journal of Geophysical Research - Biogeosciences_. In press, [Wiley](https://doi.org/10.1029/2018JG004420).
+__Lin Y__, Bhattacharyya A, Campbell AN, Nico PS, Pett-Ridge J, and Silver WS. (2018) Phosphorus fractionation responds to dynamic redox conditions in a humid tropical forest soil. _Journal of Geophysical Research: Biogeosciences_ 123, 3016-3027, [Wiley](https://doi.org/10.1029/2018JG004420).
 
-Shi Z, __Lin Y__, Wilcox KR, Jiang L, Jung CG, Xu X, Yuan M, Guo X, Zhou J, and Luo Y. Successional change in species composition alters climate
-sensitivity of grassland productivity. _Global Change Biology_. In press, [Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14333).
+Shi Z, __Lin Y__, Wilcox KR, Jiang L, Jung CG, Xu X, Yuan M, Guo X, Zhou J, and Luo Y.  (2018) Successional change in species composition alters climate
+sensitivity of grassland productivity. _Global Change Biology_ 24: 4993-5003, [Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14333).
 
-Miller DL, Roberts DA, Clarke KC, __Lin Y__, Menzer O, Peters EB, McFadden JP. Gross primary productivity of a large metropolitan region using high spatial resolution satellite imagery. _Urban Ecosystems_. In press,  [Springer](https://link.springer.com/article/10.1007%2Fs11252-018-0769-3)
+Miller DL, Roberts DA, Clarke KC, __Lin Y__, Menzer O, Peters EB, McFadden JP. (2018) Gross primary productivity of a large metropolitan region using high spatial resolution satellite imagery. _Urban Ecosystems_ 21, 831–850,  [Springer](https://link.springer.com/article/10.1007%2Fs11252-018-0769-3)
 
 __Lin Y__, Ralph J, Karlen SD, and King JY. (2018) Short-term facilitation of microbial litter decomposition by ultraviolet radiation. _Science of the Total Environment_ 615. 838–848. [Elsevier](https://doi.org/10.1016/j.scitotenv.2017.09.239), [Accepted version](/files/17_Lin_STOTEN.pdf)
 
